@@ -27,6 +27,8 @@ const Persons = ({ persons }) => {
         )
     }
 
+    console.log(persons)
+
     return (
         <div>
           <h2>Persons</h2>
